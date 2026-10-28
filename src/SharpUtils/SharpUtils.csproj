@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);CS1591</NoWarn>
+    <PackageId>SharpUtils</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Daim Ali</Authors>
+    <Description>Lightweight, dependency-free utility helpers for everyday C# development — strings, dates, collections, numbers and validation.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/Daimx1214/SharpUtils</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
